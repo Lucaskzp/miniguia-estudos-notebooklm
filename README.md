@@ -1,3 +1,4 @@
+
 # 📷 Evidências de Utilização
 
 Durante o desenvolvimento deste projeto foram realizados testes no NotebookLM utilizando diferentes estratégias de prompts para compreender melhor os conceitos de Banco de Dados Relacional e SQL.
@@ -45,3 +46,11 @@ Foi criado um glossário com os principais termos estudados, permitindo uma cons
 Também foram elaborados prompts reutilizáveis para futuras sessões de estudo utilizando o NotebookLM.
 
 ![Prompts](./Prompts.png)
+
+## 👨‍💻 Autor
+
+**Lucas Souza**
+
+Estudante de Ciência da Computação e entusiasta da área de Tecnologia da Informação.
+
+Este projeto foi desenvolvido durante o desafio da Digital Innovation One (DIO), explorando o NotebookLM como ferramenta de apoio à aprendizagem.
