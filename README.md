@@ -89,6 +89,6 @@ Algumas melhorias que podem ser realizadas futuramente:
 
 # 👨‍💻 Autor
 
-**Lucas Silva**
+**Lucas Silva Souza**
 
 Projeto desenvolvido para fins acadêmicos e de aprendizado sobre Inteligência Artificial aplicada aos estudos.
