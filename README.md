@@ -20,33 +20,33 @@ Através desses testes, foi possível perceber que a qualidade das respostas dep
 
 # 📸 Demonstração
 
-## Prompt 1
+## Prompt
 
 ![Prompt 1](Prompt1.png)
 
 ---
 
-## Prompt 2
+## Prompts
 
-![Prompt 2](Prompt2.png)
-
----
-
-## Prompt 3
-
-![Prompt 3](Prompt3.png)
+![Prompt 2](Prompts.png)
 
 ---
 
-## Prompt 4
+## Resumo
 
-![Prompt 4](Prompt4.png)
+![Prompt 3](Resumo.png)
 
 ---
 
-## Prompt 5
+## Fontes
 
-![Prompt 5](Prompt5.png)
+![Prompt 4](Fontes.png)
+
+---
+
+## Glossario
+
+![Prompt 5](Glossario.png)
 
 ---
 
