@@ -2,7 +2,6 @@
 # 📷 Evidências de Utilização
 
 Durante o desenvolvimento deste projeto foram realizados testes no NotebookLM utilizando diferentes estratégias de prompts para compreender melhor os conceitos de Banco de Dados Relacional e SQL.
-
 ---
 
 ## 📚 Fontes adicionadas ao NotebookLM
