@@ -49,7 +49,7 @@ Também foram elaborados prompts reutilizáveis para futuras sessões de estudo 
 
 ## 👨‍💻 Autor
 
-**Lucas Souza**
+**Lucas Silva**
 
 Estudante de Ciência da Computação e entusiasta da área de Tecnologia da Informação.
 
