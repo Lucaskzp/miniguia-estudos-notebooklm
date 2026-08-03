@@ -1,27 +1,17 @@
-## Fontes
+## 📷 Evidências
 
-![Fontes](imagens/fontes.png)
+### Fontes utilizadas no NotebookLM
 
----
-
-## Primeiro Prompt
-
-![Prompt](imagens/prompt1.png)
+![Fontes](fontes.png)
 
 ---
 
-## Resumo
+### Primeiro Prompt
 
-![Resumo](imagens/resumo.png)
-
----
-
-## Glossário
-
-![Glossário](imagens/glossario.png)
+![Prompt](prompt1.png)
 
 ---
 
-## Prompts reutilizáveis
+### Resumo gerado pelo NotebookLM
 
-![Prompts](imagens/prompts.png)
+![Resumo](resumo.png)
