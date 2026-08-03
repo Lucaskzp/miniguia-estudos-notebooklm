@@ -1,17 +1,47 @@
-## 📷 Evidências
+# Evidências de Utilização
 
-### Fontes utilizadas no NotebookLM
+Durante o desenvolvimento deste projeto foram realizados testes no NotebookLM utilizando diferentes estratégias de prompts para compreender melhor os conceitos de Banco de Dados Relacional e SQL.
+
+---
+
+##  Fontes adicionadas ao NotebookLM
+
+As fontes utilizadas foram:
+
+- Microsoft Learn (SQL Documentation)
+- PostgreSQL Documentation
+- W3Schools SQL Tutorial
 
 ![Fontes](Fontes.png)
 
 ---
 
-### Primeiro Prompt
+## Prompt 1 – Conceito de Banco de Dados Relacional
 
-![Prompt](Prompt1.png)
+Foi solicitado ao NotebookLM que explicasse o conceito de Banco de Dados Relacional utilizando apenas as fontes carregadas.
+
+![Prompt 1](Prompt1.png)
 
 ---
 
-### Resumo gerado pelo NotebookLM
+##  Resumo para Revisão
 
-![Resumo](Resumo.png)s
+O NotebookLM gerou um resumo estruturado dos principais conceitos, facilitando a revisão do conteúdo antes de provas ou entrevistas.
+
+![Resumo](Resumo.png)
+
+---
+
+##  Glossário
+
+Foi criado um glossário com os principais termos estudados, permitindo uma consulta rápida aos conceitos fundamentais.
+
+![Glossário](Glossario.png)
+
+---
+
+## Prompts Reutilizáveis
+
+Também foram elaborados prompts reutilizáveis para futuras sessões de estudo utilizando o NotebookLM.
+
+![Prompts](Prompts.png)
