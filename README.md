@@ -2,16 +2,16 @@
 
 ### Fontes utilizadas no NotebookLM
 
-![Fontes](fontes.png)
+![Fontes](Fontes.png)
 
 ---
 
 ### Primeiro Prompt
 
-![Prompt](prompt1.png)
+![Prompt](Prompt1.png)
 
 ---
 
 ### Resumo gerado pelo NotebookLM
 
-![Resumo](resumo.png)
+![Resumo](Resumo.png)s
