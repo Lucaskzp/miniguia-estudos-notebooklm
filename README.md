@@ -13,44 +13,82 @@ As fontes utilizadas foram:
 - PostgreSQL Documentation
 - W3Schools SQL Tutorial
 
-![Fontes](./Fontes.png)
+
+Através desses testes, foi possível perceber que a qualidade das respostas depende bastante da forma como os comandos são escritos e dos materiais utilizados como fonte.
 
 ---
 
-## 🧠 Prompt 1 – Conceito de Banco de Dados Relacional
+# 📸 Demonstração
 
-Foi solicitado ao NotebookLM que explicasse o conceito de Banco de Dados Relacional utilizando apenas as fontes carregadas.
+## Prompt 1
 
-![Prompt 1](./Prompt1.png)
-
----
-
-## 📝 Resumo para Revisão
-
-O NotebookLM gerou um resumo estruturado dos principais conceitos, facilitando a revisão do conteúdo antes de provas ou entrevistas.
-
-![Resumo](./Resumo.png)
+![Prompt 1](Prompt1.png)
 
 ---
 
-## 📖 Glossário
+## Prompt 2
 
-Foi criado um glossário com os principais termos estudados, permitindo uma consulta rápida aos conceitos fundamentais.
-
-![Glossário](./Glossario.png)
+![Prompt 2](Prompt2.png)
 
 ---
 
-## 💡 Prompts Reutilizáveis
+## Prompt 3
 
-Também foram elaborados prompts reutilizáveis para futuras sessões de estudo utilizando o NotebookLM.
+![Prompt 3](Prompt3.png)
 
-![Prompts](./Prompts.png)
+---
 
-## 👨‍💻 Autor
+## Prompt 4
+
+![Prompt 4](Prompt4.png)
+
+---
+
+## Prompt 5
+
+![Prompt 5](Prompt5.png)
+
+---
+
+# 📊 Resultados
+
+Com o desenvolvimento deste projeto, foi possível perceber como a Inteligência Artificial pode ser uma ferramenta útil quando utilizada como apoio ao aprendizado.
+
+O NotebookLM ajudou na organização dos conteúdos, facilitou a revisão e possibilitou novas formas de interação com os materiais estudados.
+
+Além disso, foi possível desenvolver conhecimentos relacionados a:
+
+- Uso consciente de ferramentas de IA;
+- Criação de prompts;
+- Organização de informações;
+- Documentação de projetos no GitHub.
+
+---
+
+# 💡 Aprendizados
+
+Durante a criação deste projeto, alguns dos principais aprendizados foram:
+
+- A importância de fornecer boas fontes para a IA analisar;
+- Como a criação de prompts influencia nos resultados;
+- A utilização da Inteligência Artificial como complemento aos estudos;
+- A importância de revisar e analisar as respostas geradas.
+
+---
+
+# 🔮 Possíveis melhorias futuras
+
+Algumas melhorias que podem ser realizadas futuramente:
+
+- Adicionar novos temas de estudo;
+- Criar uma biblioteca de prompts;
+- Explorar outras ferramentas de Inteligência Artificial;
+- Comparar diferentes formas de aprendizado utilizando IA.
+
+---
+
+# 👨‍💻 Autor
 
 **Lucas Silva**
 
-Estudante de Ciência da Computação e entusiasta da área de Tecnologia da Informação.
-
-Este projeto foi desenvolvido durante o desafio da Digital Innovation One (DIO), explorando o NotebookLM como ferramenta de apoio à aprendizagem.
+Projeto desenvolvido para fins acadêmicos e de aprendizado sobre Inteligência Artificial aplicada aos estudos.
